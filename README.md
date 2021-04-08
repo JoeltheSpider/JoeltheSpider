@@ -38,5 +38,4 @@
 | ![Joel's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=joelthespider&show_icons=true) | ![Joel's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=joelthespider) |
 | -- | -- |
 
-
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=joelthespider)
