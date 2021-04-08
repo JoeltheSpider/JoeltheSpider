@@ -16,6 +16,8 @@
 <img src="https://img.shields.io/badge/-Instagram-%23eb13a5" alt="Instagram" /></a> 
 <a href="https://www.twitch.tv/joelthespider">
 <img src="https://img.shields.io/badge/-Twitch-%239146FF" alt="Twitch" /></a> 
+<a href="https://www.patreon.com/joeloffbeat">
+<img src="https://img.shields.io/badge/-Patreon-%23FF7F50" alt="Patreon" /></a>
 </p>
 
 - Projects at work 🔭
