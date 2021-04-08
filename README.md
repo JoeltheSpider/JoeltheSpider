@@ -29,6 +29,7 @@
 - Currently playing 🎮
   - [Fornite](https://www.epicgames.com/fortnite/en-US/home)
   - [Fifa 21](https://www.ea.com/games/fifa/fifa-21)
+  - [Valorant](https://playvalorant.com/en-gb/)
 - Interested to collaborate on 🙌
   - Deep Learning
   - Visual Art generation
