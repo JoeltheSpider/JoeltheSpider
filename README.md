@@ -23,7 +23,7 @@
 - Projects at work 🔭
   - PyFuting : A fifa ultimate team trading companion based on futbin data and ensemble models.
   - Spotify-Sense : A music recommendation system based on spotify million playlist dataset and RL techniques.
-  - RIE-RID : A advanced image encryption/decryption method based on elgamal and chaoas theory.
+  - RIE-RID : A advanced image encryption/decryption method based on elgamal and chaos theory.
 - I’m currently pursuing 🌱
   - Data Science Major at [PSG College of Technology](https://www.psgtech.edu/)
 - Currently playing 🎮
