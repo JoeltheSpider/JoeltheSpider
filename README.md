@@ -24,7 +24,8 @@
   - PyFuting : A fifa ultimate team trading companion based on futbin data and ensemble models.
   - Spotify-Sense : A music recommendation system based on spotify million playlist dataset and RL techniques.
   - Google You : A program that renders a google result page with you as the main topic.
-  - Leah - A super cool rpg game ( on works )
+  - Lazy B : A samsung active gear app that monitors your momvement heatmap and creates leaderboards with friends. 
+  - Leah : A super cool rpg game ( on works )
 - I’m currently pursuing 🌱
   - Data Science Major at [PSG College of Technology](https://www.psgtech.edu/)
 - Currently playing 🎮
