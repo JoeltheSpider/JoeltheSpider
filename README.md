@@ -22,18 +22,19 @@
 
 - Projects at work 🔭
   - PyFuting : A fifa ultimate team trading companion based on futbin data and ensemble models.
-  - Spotify-Sense : A music recommendation system based on spotify million playlist dataset and RL techniques.
+  - Family-app : A app that renders cool family tree results and helps keep track of family status.
   - Max Narx : A program that renders a google result page with you as the main topic.
   - Lazy B : A samsung active gear app that monitors your momvement heatmap and creates leaderboards with friends. 
   - Leah : A super cool rpg game ( on works )
 - I’m currently pursuing 🌱
-  - Data Science Major at [PSG College of Technology](https://www.psgtech.edu/)
+  - Data Science Major (2k22) at [PSG College of Technology](https://www.psgtech.edu/)
 - Currently playing 🎮
   - [Fornite](https://www.epicgames.com/fortnite/en-US/home)
   - [Fifa 21](https://www.ea.com/games/fifa/fifa-21)
   - [Valorant](https://playvalorant.com/en-gb/)
 - Interested to collaborate on 🙌
   - Deep Learning
+  - Computer Vision
   - Visual Art generation
   - Automating
 
