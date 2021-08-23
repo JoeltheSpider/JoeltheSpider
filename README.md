@@ -43,3 +43,4 @@
 | -- | -- |
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=joelthespider)
+<!--![hello](https://cdn.fortnite-api.com/stats/v2/a9aac4d12cce9b797190d8022deda8b6546443b7.png)-->
