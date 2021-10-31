@@ -21,16 +21,15 @@
 </p>
 
 - Projects at work 🔭
-  - PyFuting : A fifa ultimate team trading companion based on futbin data and ensemble models.
+  - PyFuting : A fifa ultimate team trading api, that can fetch price history of players based on futbin data.
   - Family-app : A app that renders cool family tree results and helps keep track of family status.
-  - Max Narx : A program that renders a google result page with you as the main topic.
   - Lazy B : A samsung active gear app that monitors your momvement heatmap and creates leaderboards with friends. 
   - Leah : A super cool rpg game ( on works )
 - I’m currently pursuing 🌱
   - Data Science Major (2k22) at [PSG College of Technology](https://www.psgtech.edu/)
 - Currently playing 🎮
   - [Fornite](https://www.epicgames.com/fortnite/en-US/home)
-  - [Fifa 21](https://www.ea.com/games/fifa/fifa-21)
+  - [Fifa 22](https://www.ea.com/games/fifa/fifa-22)
   - [Valorant](https://playvalorant.com/en-gb/)
 - Interested to collaborate on 🙌
   - Deep Learning
