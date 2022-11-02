@@ -25,17 +25,16 @@
   - Family-app : A app that renders cool family tree results and helps keep track of family status.
   - Lazy B : A samsung active gear app that monitors your momvement heatmap and creates leaderboards with friends. 
   - Leah : A super cool rpg game ( on works )
-- I’m currently pursuing 🌱
+- Education 🌱
   - Data Science Major (2k22) at [PSG College of Technology](https://www.psgtech.edu/)
 - Currently playing 🎮
   - [Fornite](https://www.epicgames.com/fortnite/en-US/home)
-  - [Fifa 22](https://www.ea.com/games/fifa/fifa-22)
-  - [Valorant](https://playvalorant.com/en-gb/)
 - Interested to collaborate on 🙌
   - Deep Learning
   - Computer Vision
   - Visual Art generation
   - Automating
+  - Personalization
 
 
 | ![Joel's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=joelthespider&show_icons=true) | ![Joel's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=joelthespider) |
